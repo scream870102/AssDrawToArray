@@ -4,6 +4,7 @@ counter=0
 content='m 0 -22 l -15 0 l 15 0 m -15 0 l 15 0 l 0 22 '
 test = 'test'
 testbranch='test'
+# mastr
 color=[]
 point=[]
 x = re.findall(r'(-?\d+) (-?\d+)',content)
